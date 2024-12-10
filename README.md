@@ -2,7 +2,6 @@
 
 **Author:** Sherry Torres  
 **LinkedIn:** https://www.linkedin.com/in/sherrytorres
-**Email:** sherry@search.org  
 
 **Organization:** SEARCH Group, Inc.  
 **Website:** https://www.search.org
